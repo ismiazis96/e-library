@@ -1,0 +1,1893 @@
+
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: admin/Report.php</p>
+<p>Line Number: 249</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 249<br />
+			Function: date			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: Shared/OLE.php</p>
+<p>Line Number: 476</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE.php<br />
+			Line: 476<br />
+			Function: date			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 856<br />
+			Function: LocalDate2OLE			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 206<br />
+			Function: _writeSummaryInformation			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 255<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: Shared/OLE.php</p>
+<p>Line Number: 476</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE.php<br />
+			Line: 476<br />
+			Function: date			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 856<br />
+			Function: LocalDate2OLE			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 206<br />
+			Function: _writeSummaryInformation			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 255<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: Shared/OLE.php</p>
+<p>Line Number: 476</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE.php<br />
+			Line: 476<br />
+			Function: date			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 856<br />
+			Function: LocalDate2OLE			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 206<br />
+			Function: _writeSummaryInformation			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 255<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: Shared/OLE.php</p>
+<p>Line Number: 477</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE.php<br />
+			Line: 477<br />
+			Function: date			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 856<br />
+			Function: LocalDate2OLE			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 206<br />
+			Function: _writeSummaryInformation			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 255<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: Shared/OLE.php</p>
+<p>Line Number: 477</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE.php<br />
+			Line: 477<br />
+			Function: date			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 856<br />
+			Function: LocalDate2OLE			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 206<br />
+			Function: _writeSummaryInformation			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 255<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: Shared/OLE.php</p>
+<p>Line Number: 477</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE.php<br />
+			Line: 477<br />
+			Function: date			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 856<br />
+			Function: LocalDate2OLE			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 206<br />
+			Function: _writeSummaryInformation			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 255<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: Shared/OLE.php</p>
+<p>Line Number: 476</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE.php<br />
+			Line: 476<br />
+			Function: date			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 865<br />
+			Function: LocalDate2OLE			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 206<br />
+			Function: _writeSummaryInformation			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 255<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: Shared/OLE.php</p>
+<p>Line Number: 476</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE.php<br />
+			Line: 476<br />
+			Function: date			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 865<br />
+			Function: LocalDate2OLE			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 206<br />
+			Function: _writeSummaryInformation			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 255<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: Shared/OLE.php</p>
+<p>Line Number: 476</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE.php<br />
+			Line: 476<br />
+			Function: date			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 865<br />
+			Function: LocalDate2OLE			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 206<br />
+			Function: _writeSummaryInformation			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 255<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: Shared/OLE.php</p>
+<p>Line Number: 477</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE.php<br />
+			Line: 477<br />
+			Function: date			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 865<br />
+			Function: LocalDate2OLE			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 206<br />
+			Function: _writeSummaryInformation			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 255<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: Shared/OLE.php</p>
+<p>Line Number: 477</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE.php<br />
+			Line: 477<br />
+			Function: date			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 865<br />
+			Function: LocalDate2OLE			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 206<br />
+			Function: _writeSummaryInformation			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 255<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: Shared/OLE.php</p>
+<p>Line Number: 477</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE.php<br />
+			Line: 477<br />
+			Function: date			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 865<br />
+			Function: LocalDate2OLE			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 206<br />
+			Function: _writeSummaryInformation			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 255<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>ÐÏà¡±á                ;  þÿ	                                þÿÿÿ       ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ         þÿÿÿ         þÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿþÿ                      à…ŸòùOh«‘ +'³Ù0   ´         @      H      h      |      ”             ¬      ä        Para Pejuang Aplikom          Corro Team        Unknown Creator @    %d“\Û@    %d“\Û                                   þÿ                      ÕÍÕœ.“— +,ù®0   ¼         H      P      X      `      h      p      x      Ž      ä                                         
+   Worksheet            Feuilles de calcul                              	   »ÌÑ    B  °=      ¼%r8      X"    1  Ü          C a l i b r i à      õÿ   À        	à      õÿ   À        	à      õÿ   À        	à      õÿ   À        	à      õÿ   À        	à      õÿ   À        	à      õÿ   À        	à      õÿ   À        	à      õÿ   À        	à      õÿ   À        	à      õÿ   À        	à      õÿ   À        	à      õÿ   À        	à      õÿ   À        	à      õÿ   À        	à          À        	à       "  À       
+“  € ÿ’ â 8     ÿÿÿ ’ÐP  ÿ    ÿ ÿÿ  ÿ ÿ  ÿÿ €    €    € €€  € €  €€ ÀÀÀ €€€ ™™ÿ ™3f ÿÿÌ Ìÿÿ f f ÿ€€  fÌ ÌÌÿ   € ÿ ÿ ÿÿ   ÿÿ € € €    €€   ÿ  Ìÿ Ìÿÿ ÌÿÌ ÿÿ™ ™Ìÿ ÿ™Ì Ì™ÿ ÿÌ™ 3fÿ 3ÌÌ ™Ì  ÿÌ  ÿ™  ÿf  ff™ –––  3f 3™f  3  33  ™3  ™3f 33™ 333 …  ¨    D a t a   E x p o r t Á Á  gæ ®           ü €U   *    N O  I D   B u k u    I S B N 
+ J u d u l   B u k u  K a t e g o r i  P e n e r b i t 	 P e n g a r a n g  R a k  T a h u n  S t o k 
+ K e t e r a n g a n  A u t   v i t a e   q u i a   c u l p a 	 T e k n o l o g i  G u n a w a n  s u r o s o  A  E x e r c i t a t i o n e m   c o r r u  d a t a   t e s t   4  P e n d i d i k a n   A g a m a   I s l a m  p r a k a r y a  k o m i k  B  f e f q e f q e f e q  P e m r o g r a m a n   W e b   P H P  o k  9 6 1 - 0 9 7 - 2 1 - 2 3 4  S i m u l a s i   U N B K  A n d i  S i s w a  m b o h  c e r p e n  t e s t   1  t e s t   2  f e q f q  S i m u l a s i   U N B K   1  d a t a   t e s t   1  d a t a   t e s t   2  d a t a   t e s t   3  K e u t a m a a n   S h a l a t   T a h a j u d  A h a m d   S u d i r m a n   A b b a s 	 T e r e   L i y e  s i a p 
+   	   »ÌÑ    *    +    ‚   €            Á        ƒ    „    &  ffffffæ?'  ffffffæ?(        è?)        è?¡ "  d     XX333333Ó?333333Ó? U   }            }          }          }          }          }          }          }     
+     }     
+     }  	 	       }  
+ 
+                    ý 
+          ý 
+        ý 
+        ý 
+        ý 
+        ý 
+        ý 
+        ý 
+        ý 
+        ý 
+   	  	   ý 
+   
+  
+              ð?          ð?       pšMsAý 
+       ý 
+       ý 
+       ý 
+       ý 
+                „Ÿ@  	        D@ý 
+  
+                 @           @        Rü2Aý 
+       ý 
+       ý 
+       ý 
+       ý 
+                „Ÿ@  	        4@  
+             @          @         èÖ@ý 
+       ý 
+       ý 
+       ý 
+       ý 
+                ŒŸ@  	        @ý 
+  
+                @          @       @šMsAý 
+       ý 
+       ý 
+       ý 
+       ý 
+                 Ÿ@  	          ý 
+  
+                @          @ý 
+       ý 
+       ý 
+       ý 
+       ý 
+       ý 
+                tŸ@  	        @ý 
+  
+                @          @        Rü2Aý 
+       ý 
+       ý 
+       ý 
+       ý 
+                „Ÿ@  	            
+             @          @         H“@ý 
+       ý 
+       ý 
+       ý 
+       ý 
+                ŒŸ@  	        0@  
+              @           @        Rü2Aý 
+        ý 
+       ý 
+       ý 
+       ý 
+                pŸ@  	        2@ý 
+  
+  !    	          "@ 	         "@ý 
+ 	      ý 
+ 	   "   ý 
+ 	      ý 
+ 	      ý 
+ 	      ý 
+ 	       	        tŸ@ 	 	        @ý 
+ 	 
+      
+          $@ 
+         $@ 
+       Rü2Aý 
+ 
+   #   ý 
+ 
+      ý 
+ 
+      ý 
+ 
+      ý 
+ 
+       
+        „Ÿ@ 
+ 	           
+ 
+             &@          &@        Rü2Aý 
+    $   ý 
+       ý 
+       ý 
+       ý 
+                „Ÿ@  	            
+             (@          (@        Rü2Aý 
+    %   ý 
+       ý 
+       ý 
+       ý 
+                „Ÿ@  	            
+             *@          *@       PšMsAý 
+    &   ý 
+       ý 
+    '   ý 
+    (   ý 
+                œŸ@  	          ý 
+  
+  )   > ¶    @     d     ‹ ‹          d       
+       
+g g           ÿÿÿÿÿ  
+                                                               
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: Shared/OLE.php</p>
+<p>Line Number: 476</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE.php<br />
+			Line: 476<br />
+			Function: date			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS.php<br />
+			Line: 185<br />
+			Function: LocalDate2OLE			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS\Root.php<br />
+			Line: 369<br />
+			Function: _getPpsWk			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS\Root.php<br />
+			Line: 109<br />
+			Function: _savePps			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 226<br />
+			Function: save			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 255<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: Shared/OLE.php</p>
+<p>Line Number: 476</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE.php<br />
+			Line: 476<br />
+			Function: date			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS.php<br />
+			Line: 185<br />
+			Function: LocalDate2OLE			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS\Root.php<br />
+			Line: 369<br />
+			Function: _getPpsWk			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS\Root.php<br />
+			Line: 109<br />
+			Function: _savePps			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 226<br />
+			Function: save			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 255<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: Shared/OLE.php</p>
+<p>Line Number: 476</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE.php<br />
+			Line: 476<br />
+			Function: date			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS.php<br />
+			Line: 185<br />
+			Function: LocalDate2OLE			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS\Root.php<br />
+			Line: 369<br />
+			Function: _getPpsWk			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS\Root.php<br />
+			Line: 109<br />
+			Function: _savePps			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 226<br />
+			Function: save			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 255<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: Shared/OLE.php</p>
+<p>Line Number: 477</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE.php<br />
+			Line: 477<br />
+			Function: date			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS.php<br />
+			Line: 185<br />
+			Function: LocalDate2OLE			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS\Root.php<br />
+			Line: 369<br />
+			Function: _getPpsWk			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS\Root.php<br />
+			Line: 109<br />
+			Function: _savePps			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 226<br />
+			Function: save			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 255<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: Shared/OLE.php</p>
+<p>Line Number: 477</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE.php<br />
+			Line: 477<br />
+			Function: date			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS.php<br />
+			Line: 185<br />
+			Function: LocalDate2OLE			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS\Root.php<br />
+			Line: 369<br />
+			Function: _getPpsWk			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS\Root.php<br />
+			Line: 109<br />
+			Function: _savePps			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 226<br />
+			Function: save			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 255<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: Shared/OLE.php</p>
+<p>Line Number: 477</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE.php<br />
+			Line: 477<br />
+			Function: date			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS.php<br />
+			Line: 185<br />
+			Function: LocalDate2OLE			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS\Root.php<br />
+			Line: 369<br />
+			Function: _getPpsWk			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS\Root.php<br />
+			Line: 109<br />
+			Function: _savePps			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 226<br />
+			Function: save			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 255<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: Shared/OLE.php</p>
+<p>Line Number: 476</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE.php<br />
+			Line: 476<br />
+			Function: date			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS.php<br />
+			Line: 186<br />
+			Function: LocalDate2OLE			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS\Root.php<br />
+			Line: 369<br />
+			Function: _getPpsWk			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS\Root.php<br />
+			Line: 109<br />
+			Function: _savePps			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 226<br />
+			Function: save			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 255<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: Shared/OLE.php</p>
+<p>Line Number: 476</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE.php<br />
+			Line: 476<br />
+			Function: date			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS.php<br />
+			Line: 186<br />
+			Function: LocalDate2OLE			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS\Root.php<br />
+			Line: 369<br />
+			Function: _getPpsWk			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS\Root.php<br />
+			Line: 109<br />
+			Function: _savePps			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 226<br />
+			Function: save			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 255<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: Shared/OLE.php</p>
+<p>Line Number: 476</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE.php<br />
+			Line: 476<br />
+			Function: date			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS.php<br />
+			Line: 186<br />
+			Function: LocalDate2OLE			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS\Root.php<br />
+			Line: 369<br />
+			Function: _getPpsWk			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS\Root.php<br />
+			Line: 109<br />
+			Function: _savePps			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 226<br />
+			Function: save			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 255<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: Shared/OLE.php</p>
+<p>Line Number: 477</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE.php<br />
+			Line: 477<br />
+			Function: date			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS.php<br />
+			Line: 186<br />
+			Function: LocalDate2OLE			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS\Root.php<br />
+			Line: 369<br />
+			Function: _getPpsWk			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS\Root.php<br />
+			Line: 109<br />
+			Function: _savePps			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 226<br />
+			Function: save			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 255<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: Shared/OLE.php</p>
+<p>Line Number: 477</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE.php<br />
+			Line: 477<br />
+			Function: date			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS.php<br />
+			Line: 186<br />
+			Function: LocalDate2OLE			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS\Root.php<br />
+			Line: 369<br />
+			Function: _getPpsWk			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS\Root.php<br />
+			Line: 109<br />
+			Function: _savePps			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 226<br />
+			Function: save			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 255<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone.</p>
+<p>Filename: Shared/OLE.php</p>
+<p>Line Number: 477</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE.php<br />
+			Line: 477<br />
+			Function: date			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS.php<br />
+			Line: 186<br />
+			Function: LocalDate2OLE			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS\Root.php<br />
+			Line: 369<br />
+			Function: _getPpsWk			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Shared\OLE\PPS\Root.php<br />
+			Line: 109<br />
+			Function: _savePps			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\libraries\PHPExcel\Writer\Excel5.php<br />
+			Line: 226<br />
+			Function: save			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\application\controllers\admin\Report.php<br />
+			Line: 255<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\perpus\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>R o o t   E n t r y                                               ÿÿÿÿÿÿÿÿ    	     À      F    €»ü“\Û€»ü“\Û           S u m m a r y I n f o r m a t i o n                           (        ÿÿÿÿ 	     À      F                        ä       W o r k b o o k                                                   ÿÿÿÿÿÿÿÿÿÿÿÿ 	     À      F                       Ä       D o c u m e n t S u m m a r y I n f o r m a t i o n           8  ÿÿÿÿÿÿÿÿÿÿÿÿ 	     À      F                       ì       þÿÿÿ                     	   
+   þÿÿÿþÿÿÿýÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
